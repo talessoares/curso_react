@@ -4,8 +4,10 @@
 
 ### ![Progress](https://progress-bar.dev/19/?title=Course-Progress)
 
-###  [Main Branch](https://github.com/talessoares/curso_react)
+### Branchs Menu
 
-### [Section 1 to 6](https://github.com/talessoares/curso_react/tree/section01to06)
+####  [Main Branch](https://github.com/talessoares/curso_react)
 
-### [Section 8 to 9](https://github.com/talessoares/curso_react/tree/section08to09)
+#### [Section 1 to 6](https://github.com/talessoares/curso_react/tree/section01to06)
+
+#### [Section 8 to 9](https://github.com/talessoares/curso_react/tree/section08to09)
