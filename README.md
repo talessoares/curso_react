@@ -1,8 +1,24 @@
 # Curso React
 
-## Description  (from [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)) 
+## Main Branch
 
-### ![Progress](https://progress-bar.dev/13/?title=Course-Progress)
+### Description  (from [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)) 
+
+## ![Progress](https://progress-bar.dev/29/?title=Course-Progress)
+
+<br>
+
+### Branchs Menu
+
+####  [Main Branch](https://github.com/talessoares/curso_react)
+
+#### [Section 1 to 6](https://github.com/talessoares/curso_react/tree/section01to06)
+
+#### [Section 8 to 9](https://github.com/talessoares/curso_react/tree/section08to09)
+
+<br>
+
+---
 
 This course is fully up-to-date with React 18 (the latest version of React)!
 
