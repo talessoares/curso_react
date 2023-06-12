@@ -1,8 +1,8 @@
 # Curso React
 
-## This Branch Covers Section 11(from [this Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)) 
+## This Branch Covers Section 14(from [this Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)) 
 
-### ![Progress](https://progress-bar.dev/35/?title=Course-Progress)
+### ![Progress](https://progress-bar.dev/45/?title=Course-Progress)
 
 ---
 
@@ -17,3 +17,5 @@
 #### [Section 10](https://github.com/talessoares/curso_react/tree/section10)
 
 #### [Section 11](https://github.com/talessoares/curso_react/tree/section11)
+
+#### [Section 14](https://github.com/talessoares/curso_react/tree/section14)
